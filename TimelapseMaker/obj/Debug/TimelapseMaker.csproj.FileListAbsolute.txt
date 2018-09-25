@@ -1,0 +1,94 @@
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\bin\Debug\TimelapseMaker.exe.config
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\bin\Debug\TimelapseMaker.exe
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\bin\Debug\TimelapseMaker.pdb
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\obj\Debug\TimelapseMaker.Form1.resources
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\obj\Debug\TimelapseMaker.Properties.Resources.resources
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\obj\Debug\TimelapseMaker.csproj.GenerateResource.Cache
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\obj\Debug\TimelapseMaker.exe
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\obj\Debug\TimelapseMaker.pdb
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.Video.dll
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.dll
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.Video.xml
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.xml
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.Video.FFMPEG.dll
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.Video.FFMPEG.xml
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.Math.dll
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.Math.xml
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.Controls.dll
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.Fuzzy.dll
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.Genetic.dll
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.Imaging.dll
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.Imaging.Formats.dll
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.Imaging.IPPrototyper.dll
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.MachineLearning.dll
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.Neuro.dll
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.Robotics.Lego.dll
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.Robotics.Surveyor.dll
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.Robotics.TeRK.dll
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.Video.DirectShow.dll
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.Video.Kinect.dll
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.Video.VFW.dll
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.Video.Ximea.dll
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.Vision.dll
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.Controls.xml
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.Fuzzy.xml
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.Genetic.xml
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.Imaging.xml
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.Imaging.Formats.xml
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.MachineLearning.xml
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.Neuro.xml
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.Robotics.Lego.xml
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.Robotics.Surveyor.xml
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.Robotics.TeRK.xml
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.Video.DirectShow.xml
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.Video.Kinect.xml
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.Video.VFW.xml
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.Video.Ximea.xml
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.Vision.xml
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\bin\Debug\ffmpeg.exe
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\bin\Debug\ffplay.exe
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\bin\Debug\ffprobe.exe
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\bin\Debug\avcodec-53.dll
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\bin\Debug\avdevice-53.dll
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\bin\Debug\avfilter-2.dll
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\bin\Debug\avformat-53.dll
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\bin\Debug\avutil-51.dll
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\bin\Debug\swscale-2.dll
+c:\users\jungju\documents\visual studio 2012\Projects\TimelapseMaker\TimelapseMaker\obj\Debug\TimelapseMaker.csprojResolveAssemblyReference.cache
+S:\work\dev_director\Hyperlapse\Test\TimelapseMaker\TimelapseMaker\bin\Debug\TimelapseMaker.exe.config
+S:\work\dev_director\Hyperlapse\Test\TimelapseMaker\TimelapseMaker\obj\Debug\TimelapseMaker.exe
+S:\work\dev_director\Hyperlapse\Test\TimelapseMaker\TimelapseMaker\obj\Debug\TimelapseMaker.pdb
+S:\work\dev_director\Hyperlapse\Test\TimelapseMaker\TimelapseMaker\bin\Debug\ffmpeg.exe
+S:\work\dev_director\Hyperlapse\Test\TimelapseMaker\TimelapseMaker\bin\Debug\ffplay.exe
+S:\work\dev_director\Hyperlapse\Test\TimelapseMaker\TimelapseMaker\bin\Debug\ffprobe.exe
+S:\work\dev_director\Hyperlapse\Test\TimelapseMaker\TimelapseMaker\bin\Debug\avcodec-53.dll
+S:\work\dev_director\Hyperlapse\Test\TimelapseMaker\TimelapseMaker\bin\Debug\avdevice-53.dll
+S:\work\dev_director\Hyperlapse\Test\TimelapseMaker\TimelapseMaker\bin\Debug\avfilter-2.dll
+S:\work\dev_director\Hyperlapse\Test\TimelapseMaker\TimelapseMaker\bin\Debug\avformat-53.dll
+S:\work\dev_director\Hyperlapse\Test\TimelapseMaker\TimelapseMaker\bin\Debug\avutil-51.dll
+S:\work\dev_director\Hyperlapse\Test\TimelapseMaker\TimelapseMaker\bin\Debug\swscale-2.dll
+S:\work\dev_director\Hyperlapse\Test\TimelapseMaker\TimelapseMaker\bin\Debug\TimelapseMaker.exe
+S:\work\dev_director\Hyperlapse\Test\TimelapseMaker\TimelapseMaker\bin\Debug\TimelapseMaker.pdb
+S:\work\dev_director\Hyperlapse\Test\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.xml
+S:\work\dev_director\Hyperlapse\Test\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.Controls.xml
+S:\work\dev_director\Hyperlapse\Test\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.Fuzzy.xml
+S:\work\dev_director\Hyperlapse\Test\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.Genetic.xml
+S:\work\dev_director\Hyperlapse\Test\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.Imaging.xml
+S:\work\dev_director\Hyperlapse\Test\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.Imaging.Formats.xml
+S:\work\dev_director\Hyperlapse\Test\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.MachineLearning.xml
+S:\work\dev_director\Hyperlapse\Test\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.Math.xml
+S:\work\dev_director\Hyperlapse\Test\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.Neuro.xml
+S:\work\dev_director\Hyperlapse\Test\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.Robotics.Lego.xml
+S:\work\dev_director\Hyperlapse\Test\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.Robotics.Surveyor.xml
+S:\work\dev_director\Hyperlapse\Test\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.Robotics.TeRK.xml
+S:\work\dev_director\Hyperlapse\Test\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.Video.xml
+S:\work\dev_director\Hyperlapse\Test\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.Video.DirectShow.xml
+S:\work\dev_director\Hyperlapse\Test\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.Video.FFMPEG.xml
+S:\work\dev_director\Hyperlapse\Test\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.Video.Kinect.xml
+S:\work\dev_director\Hyperlapse\Test\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.Video.VFW.xml
+S:\work\dev_director\Hyperlapse\Test\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.Video.Ximea.xml
+S:\work\dev_director\Hyperlapse\Test\TimelapseMaker\TimelapseMaker\bin\Debug\AForge.Vision.xml
+S:\work\dev_director\Hyperlapse\Test\TimelapseMaker\TimelapseMaker\obj\Debug\TimelapseMaker.csprojResolveAssemblyReference.cache
+S:\work\dev_director\Hyperlapse\Test\TimelapseMaker\TimelapseMaker\obj\Debug\TimelapseMaker.Form1.resources
+S:\work\dev_director\Hyperlapse\Test\TimelapseMaker\TimelapseMaker\obj\Debug\TimelapseMaker.Properties.Resources.resources
+S:\work\dev_director\Hyperlapse\Test\TimelapseMaker\TimelapseMaker\obj\Debug\TimelapseMaker.csproj.GenerateResource.Cache

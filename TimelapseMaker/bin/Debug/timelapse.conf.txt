@@ -1,0 +1,7 @@
+destinationdir =
+intervalsec = 380
+fps = 30
+rawdir = rawfile
+orderdir = rawfile_order
+timelapseapp = osanp
+export = 
